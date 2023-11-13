@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome,we have a little bit of a new look. 
+Some new guides
 
 [Components](https://github.com/th-frontend/components) - Is going to be the spot to stash any code if you want to contribute but you are unsure. Just add an [issue](https://github.com/th-frontend/components/issues) 
 
