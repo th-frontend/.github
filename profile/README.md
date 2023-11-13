@@ -8,7 +8,10 @@ Some new guides
 [Notes/Tutorials](https://github.com/th-frontend/notes-tutorials) - This is going to be your spot for helpful documents that don't fit inside of the components. Things like how to setup a Google Anaytics 4. Feel free to add anything but if you are unsure just add an [issue](https://github.com/th-frontend/components/issues)
 
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 If you need help understanding [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+Also, if you really don't know where to go you can always use the [discussions](https://github.com/orgs/th-frontend/discussions) to ask a question 
 
 
 <!--
